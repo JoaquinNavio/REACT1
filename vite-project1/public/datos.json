@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera",
+        "descripccion": "Remera de tela, bla bla bla",
+        "precio": 200
+        ,"img":"/src/assets/img/camiseta-azul.jpg"
+        ,"cantidad":""
+    },
+    {
+        "id": 2,
+        "nombre": "Jeans",
+        "descripccion": "Jeans clásicos, ajuste cómodo",
+        "precio": 400
+        ,"img":"/src/assets/img/jean.jpg"
+        ,"cantidad":""
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatillas",
+        "descripccion": "Zapatillas deportivas, ideal para actividades físicas",
+        "precio": 150
+        ,"img":"/src/assets/img/zapas.jpg"
+        ,"cantidad":""
+    },
+    {
+        "id": 4,
+        "nombre": "Camisa",
+        "descripccion": "Camisa formal, perfecta para ocasiones especiales",
+        "precio": 300
+        ,"img":"/src/assets/img/sueter-delantero-verde.jpg"
+        ,"cantidad":""
+        
+    },
+    {
+        "id": 5,
+        "nombre": "Bufanda",
+        "descripccion": "Bufanda suave y abrigada",
+        "precio": 0
+        ,"img":"/src/assets/img/bufanda.jpg" 
+        ,"cantidad":""
+    },
+    {
+        "id": 6,
+        "nombre": "Sweater",
+        "descripccion": "Sweater de lana, ideal para climas fríos",
+        "precio": 250
+        ,"img":"/src/assets/img/ropa.jpg" 
+        ,"cantidad":""
+    },
+    {
+        "id": 7,
+        "nombre": "Shorts",
+        "descripccion": "Shorts cómodos para actividades al aire libre",
+        "precio": 120
+        ,"img":"/src/assets/img/short.jpg"
+        ,"cantidad":""
+    },
+    {
+        "id": 8,
+        "nombre": "Gorra",
+        "descripccion": "Gorra deportiva, protección contra el sol",
+        "precio": 20
+        ,"img":"/src/assets/img/gorra.jpg"
+        ,"cantidad":""
+    },
+    {
+        "id": 9,
+        "nombre": "Vestido",
+        "descripccion": "Vestido elegante, perfecto para eventos formales",
+        "precio": 350,
+        "img":"/src/assets/img/vstid.jpg" 
+        ,"cantidad":""
+    },
+    {
+        "id": 10,
+        "nombre": "Calcetines",
+        "descripccion": "Calcetines suaves y cómodos",
+        "precio": 10 ,
+        "img":"/src/assets/img/medias.jpg" 
+        ,"cantidad":""
+    },
+    {
+        "id": 11,
+        "nombre": "Chaqueta",
+        "descripccion": "Chaqueta resistente al agua, ideal para días lluviosos",
+        "precio": 180 
+        ,
+        "img":"/src/assets/img/cha.jpg" 
+        ,"cantidad":""
+    },
+    {
+        "id": 12,
+        "nombre": "Pantalón Deportivo",
+        "descripccion": "Pantalón deportivo, perfecto para entrenamientos",
+        "precio": 90 ,
+        "img":"/src/assets/img/pant.jpg" 
+        ,"cantidad":""
+    }
+]
